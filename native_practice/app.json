@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "nativePractice",
-    "slug": "nativePractice",
+    "name": "native_practice",
+    "slug": "native_practice",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
